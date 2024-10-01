@@ -1,0 +1,10 @@
+C:\Users\uriel\Source\Repos\CalculadoraAreasActualizado\CalculadoraAreasParaActualizacion\bin\Debug\CalculadoraAreasParaActualizacion.exe.config
+C:\Users\uriel\Source\Repos\CalculadoraAreasActualizado\CalculadoraAreasParaActualizacion\bin\Debug\CalculadoraAreasParaActualizacion.exe
+C:\Users\uriel\Source\Repos\CalculadoraAreasActualizado\CalculadoraAreasParaActualizacion\bin\Debug\CalculadoraAreasParaActualizacion.pdb
+C:\Users\uriel\Source\Repos\CalculadoraAreasActualizado\CalculadoraAreasParaActualizacion\obj\Debug\CalculadoraAreasActualizado.csproj.AssemblyReference.cache
+C:\Users\uriel\Source\Repos\CalculadoraAreasActualizado\CalculadoraAreasParaActualizacion\obj\Debug\CalculadoraAreasActualizado.Form1.resources
+C:\Users\uriel\Source\Repos\CalculadoraAreasActualizado\CalculadoraAreasParaActualizacion\obj\Debug\CalculadoraAreasParaActualizacion.Properties.Resources.resources
+C:\Users\uriel\Source\Repos\CalculadoraAreasActualizado\CalculadoraAreasParaActualizacion\obj\Debug\CalculadoraAreasActualizado.csproj.GenerateResource.cache
+C:\Users\uriel\Source\Repos\CalculadoraAreasActualizado\CalculadoraAreasParaActualizacion\obj\Debug\CalculadoraAreasActualizado.csproj.CoreCompileInputs.cache
+C:\Users\uriel\Source\Repos\CalculadoraAreasActualizado\CalculadoraAreasParaActualizacion\obj\Debug\CalculadoraAreasParaActualizacion.exe
+C:\Users\uriel\Source\Repos\CalculadoraAreasActualizado\CalculadoraAreasParaActualizacion\obj\Debug\CalculadoraAreasParaActualizacion.pdb
